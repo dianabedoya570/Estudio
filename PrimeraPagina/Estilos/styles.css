@@ -1,0 +1,20 @@
+h1 {
+ color: darkblue;
+ font-size: 24px;
+ font-weight: bold;
+}
+
+.heading { 
+    background-color: darkgoldenrod;
+    border:1px solid black;
+
+}
+.enfasis{
+    font-weight: bold;
+    color:darkcyan;
+}
+
+#subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(2, 41, 63);
+}
