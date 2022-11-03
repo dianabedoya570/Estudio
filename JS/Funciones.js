@@ -24,3 +24,4 @@ function sayMyName(name) {
 
 let name = "Nayib"
 console.log(sayMyName(name)("yo"))
+
