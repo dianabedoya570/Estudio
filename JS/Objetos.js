@@ -12,3 +12,8 @@ for(let i=0;i<propiedades.length;i++){
     console.log(`Agrega ${recipe[propiedades[i]]} de ${propiedades[i]}`)
 }*/
 recipe.mixIngredients()
+ 
+let objeto={}
+ objeto.nombre ="pedro"
+ 
+ console.log(objeto.nombre)
